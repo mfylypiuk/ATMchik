@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATMchik", "ATMchik\ATMchik.csproj", "{578675DC-649E-45E1-8383-48EAB61D8F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMchik Client", "ATMchik Client\ATMchik Client.csproj", "{74C07F22-EF7F-4C57-AF75-90F28FD4DB2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{578675DC-649E-45E1-8383-48EAB61D8F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578675DC-649E-45E1-8383-48EAB61D8F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578675DC-649E-45E1-8383-48EAB61D8F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578675DC-649E-45E1-8383-48EAB61D8F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C07F22-EF7F-4C57-AF75-90F28FD4DB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C07F22-EF7F-4C57-AF75-90F28FD4DB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C07F22-EF7F-4C57-AF75-90F28FD4DB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C07F22-EF7F-4C57-AF75-90F28FD4DB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16572B85-94DE-4E28-B181-2E03C7318F04}
+	EndGlobalSection
+EndGlobal
